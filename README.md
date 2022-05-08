@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'am **Mehdi Hayani Mechkouri**, a quite long name but worth remembering it.
+I'm "Future" Industrial engineer, Data Scientist and do Competitive programmer for leisure.
+
 <!--
 **MehdiHayanai/MehdiHayanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
