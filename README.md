@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mehdi
 #### An Industrial engineer, Data Scientist and Competitive programmer for leisure.
-![An Industrial engineer, Data Scientist and Competitive programmer for leisure.]
 
 Well, my name is Mehdi Hayani Mechkouri, a long name worth remembering.
 **⚠️I am currently looking for a summer internship⚠️
