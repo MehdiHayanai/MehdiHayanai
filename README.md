@@ -20,9 +20,8 @@ Skills: PYTHON / C++ / JS / JAVA / REACT/ HTML / CSS
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb/">@Linkedin</a>  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehdiHayanai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@Chakor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Chakor)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehdiHayanai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@Chakor)  [<img src='https://i.pinimg.com/originals/e4/20/86/e42086b19ef0e5a938f82f18a45d036a.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/Chakor)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiHayanai&show_icons=true)  
 
