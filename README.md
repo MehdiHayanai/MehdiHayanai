@@ -1,20 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Mehdi
+#### An Industrial engineer, Data Scientist and Competitive programmer for leisure.
+![An Industrial engineer, Data Scientist and Competitive programmer for leisure.]
+
+Well, my name is Mehdi Hayani Mechkouri, a long name worth remembering.
+**⚠️I am currently looking for a summer internship⚠️
+In one of the following subjects AI & Machine Learning | Data Analysis | Data Engineering | Industrial Engineering**
+
+My Github profile primarily serves to exhibit my projects and share my solutions to various problems. 
+As you might have guessed, I enjoy problem-solving. I'm also an active competitive programmer. I primarily code in C++ but I master other programming languages such as Python, JavaScript, and Java.
+
+My projects range from simple task automatization to a machine learning project deployment (private for the moment). 
+feel free to contact me on my @Linkedin for more details.
+
+You can visit my socials to see other projects.
 
 
-I'am **Mehdi Hayani Mechkouri**, a quite long name but worth remembering it.<br>
-I'm a "Future" Industrial engineer, Data Scientist and do Competitive programmer for leisure.
+Skills: PYTHON / C++ / JS / JAVA / REACT/ HTML / CSS
 
-<!--
-**MehdiHayanai/MehdiHayanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
