@@ -19,7 +19,7 @@ You can visit my socials to see other projects.
 Skills: PYTHON / SQL / C++ / JS / JAVA / REACT/ HTML / CSS
 
 - 🔭 I’m currently working on  <a href="https://github.com/MehdiHayanai/H2Tank" target="_blank">H2Tank</a>  
-- !🔭[H2Tank](https://github.com/MehdiHayanai/H2Tank)  
+- 🔭![H2Tank](https://github.com/MehdiHayanai/H2Tank)  
 - <a href="https://github.com/MehdiHayanai/H2Tank" target="_blank">H2Tank</a> 
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb/" target="_blank">@Linkedin</a>  
