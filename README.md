@@ -16,10 +16,10 @@ feel free to contact me on my  <a href="https://www.linkedin.com/in/mehdi-hayani
 You can visit my socials to see other projects.
 
 
-Skills: PYTHON / C++ / JS / JAVA / REACT/ HTML / CSS
+Skills: PYTHON / SQL / C++ / JS / JAVA / REACT/ HTML / CSS
 
-- 🔭 I’m currently working on  <a href="https://share.streamlit.io/mehdihayanai/datalab/main/main.py">DataLab</a>  
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb/">@Linkedin</a>  
+- 🔭 I’m currently working on  <a href="https://github.com/MehdiHayanai/H2Tank" target="_blank">H2Tank</a>  
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb/" target="_blank">@Linkedin</a>  
 
 
 [<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' alt='github' height='40'>](https://github.com/MehdiHayanai)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb//)  [<img src='https://external-preview.redd.it/v06tShlEdDTKwq2Yx9OR0HbQDEToxIeEFD9rrMBdCDM.jpg?auto=webp&s=efdf1c214a778a127be2927d28ec70ac4683853f' alt='repl-dot-it' height='40'>](https://replit.com/@Chakor)  [<img src='https://i.pinimg.com/originals/e4/20/86/e42086b19ef0e5a938f82f18a45d036a.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/Chakor)  
