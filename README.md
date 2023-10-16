@@ -5,7 +5,7 @@ My name is Mehdi Hayani Mechkouri, a long name worth remembering.
 
 **⚠️I am currently looking for an internship starting in February ⚠️**
 
-**In one of the following subjects AI & Machine Learning | Data Analysis | Data Engineering | Industrial Engineering**
+**In one of the following subjects AI & Machine Learning | Data Science | Data Engineering | Industrial Engineering**
 
 My Github profile primarily serves to exhibit my projects and share my solutions to various problems. 
 As you might have guessed, I enjoy problem-solving. I'm also an active competitive programmer. I primarily code in C++ but I master other programming languages such as Python, JavaScript, and Java.
