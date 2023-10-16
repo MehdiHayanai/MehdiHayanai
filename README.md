@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Mehdi
-#### An Industrial engineer, Data Scientist and Competitive programmer for leisure.
+#### An Industrial engineer, Data Scientist, and Competitive programmer for leisure.
 
 My name is Mehdi Hayani Mechkouri, a long name worth remembering.
 
-**⚠️I am currently looking for a summer internship⚠️**
+**⚠️I am currently looking for an internship starting in February ⚠️**
 
 **In one of the following subjects AI & Machine Learning | Data Analysis | Data Engineering | Industrial Engineering**
 
@@ -16,7 +16,7 @@ feel free to contact me on my  <a href="https://www.linkedin.com/in/mehdi-hayani
 You can visit my socials to see other projects.
 
 
-Skills: PYTHON / SQL / C++ / JS / JAVA / REACT/ HTML / CSS
+Skills: PYTHON / SQL / C++ / JS / JAVA / REACT/ HTML / CSS / Svelte
 
 - 🔭 I’m currently working on  <a href="https://github.com/MehdiHayanai/H2Tank" target="_blank">H2Tank</a>  
 - 📫 Contact me here :  <a href="https://www.linkedin.com/in/mehdi-hayani-mechkouri-9ba3161bb/" target="_blank">@Linkedin</a>  
