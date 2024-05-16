@@ -3,7 +3,6 @@
 
 My name is Mehdi Hayani Mechkouri, a long name worth remembering.
 
-**⚠️I am currently looking for an internship starting in February ⚠️**
 
 **In one of the following subjects AI & Machine Learning | Data Science | Data Engineering | Industrial Engineering**
 
